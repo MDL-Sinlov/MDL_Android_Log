@@ -111,14 +111,9 @@ ALog
 
 <img src= "image/log_filter.png" width="500px">
 
-<img src='https://raw.githubusercontent.com/MDL-Sinlov/MDL_Android_Log/master/image/log_filter.png' width="500px" />
-
 - Make sure that the wrap option is disabled
 
-
 <img src= "image/log_wrap_close.png" width="500px">
-
-<img src='https://raw.githubusercontent.com/MDL-Sinlov/MDL_Android_Log/master/image/log_wrap_close.png'/>
 
 # Use another log util instead of android.util.log
 
