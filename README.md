@@ -16,7 +16,7 @@ Android ALog provides :
 Less Runtime :
 - minSdkVersion 9
 - gradle or maven
-- jar [Download just like this Path](https://github.com/MDL-Sinlov/MDL_Android_Log/raw/master/mvn-repo/mdl/sinlov/android/log/0.0.1/log-0.0.1-jarLib.jar)
+- jar [You can Download just like this Path](https://github.com/MDL-Sinlov/MDL_Android_Log/raw/master/mvn-repo/mdl/sinlov/android/log/0.0.1/log-0.0.1-jarLib.jar)
 
 > eclipse just use every repo at version `log-x.x.x-jarLib.jar`
 
@@ -109,9 +109,14 @@ ALog
 
 - Use the filter for a better result
 
-<img src='https://raw.githubusercontent.com/MDL-Sinlov/MDL_Android_Log/master/image/log_filter.png'/>
+<img src= "image/log_filter.png" width="500px">
+
+<img src='https://raw.githubusercontent.com/MDL-Sinlov/MDL_Android_Log/master/image/log_filter.png' width="500px" />
 
 - Make sure that the wrap option is disabled
+
+
+<img src= "image/log_wrap_close.png" width="500px">
 
 <img src='https://raw.githubusercontent.com/MDL-Sinlov/MDL_Android_Log/master/image/log_wrap_close.png'/>
 
