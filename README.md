@@ -16,7 +16,7 @@ Android ALog provides :
 Less Runtime :
 - minSdkVersion 9
 - gradle or maven
-- jar [You can Download just like this Path](https://github.com/MDL-Sinlov/MDL-Android-Repo/raw/master/mvn-repo/mdl/sinlov/android/log/0.0.2/log-0.0.2-jarLib.jar)
+- jar [You can Download just like this Path](https://github.com/MDL-Sinlov/MDL-Android-Repo/raw/master/mvn-repo/mdl/sinlov/android/log/0.0.2/log-0.0.2-jarLib.zip)
 
 > eclipse just use every repo at version `log-x.x.x-jarLib.jar`
 
