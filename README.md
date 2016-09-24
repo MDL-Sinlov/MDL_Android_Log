@@ -21,10 +21,10 @@ Less Runtime :
 > eclipse just use every repo at version `log-x.x.x-jarLib.jar`
 
 Project Runtime:
-- Android Studio 2.0
+- Android Studio 2.2
 - appcompat-v7:23.4.0
-- Gradle 2.10
-- com.android.tools.build:gradle:2.0.0
+- Gradle 2.14.1
+- com.android.tools.build:gradle:2.2.0
 
 # Last Version Info
 
